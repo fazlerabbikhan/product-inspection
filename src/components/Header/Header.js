@@ -6,11 +6,11 @@ const Header = () => {
     return (
         <div>
             <nav className='navlinks'>
-                <CustomLink to='/'>Home</CustomLink>
-                <CustomLink to='/reviews'>Reviews</CustomLink>
-                <CustomLink to='/dashboard'>Dashboard</CustomLink>
-                <CustomLink to='/blogs'>Blogs</CustomLink>
-                <CustomLink to='/about'>About</CustomLink>
+                <CustomLink to='/'>HOME</CustomLink>
+                <CustomLink to='/reviews'>REVIEWS</CustomLink>
+                <CustomLink to='/dashboard'>DASHBOARD</CustomLink>
+                <CustomLink to='/blogs'>BLOGS</CustomLink>
+                <CustomLink to='/about'>ABOUT</CustomLink>
             </nav>
         </div>
     );

@@ -1,9 +1,10 @@
 import React from 'react';
+import Charts from '../Charts/Charts';
 
 const Dashboard = () => {
     return (
         <div>
-            <h1>This is Dashboard</h1>
+            <Charts />
         </div>
     );
 };
