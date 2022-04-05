@@ -1,0 +1,10 @@
+.review {
+    background-color: bisque;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.review img {
+    width: 300px;
+    border-radius: 10px;
+}

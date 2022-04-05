@@ -2,36 +2,42 @@
     {
         "id": 1,
         "name": "Julian Wan",
+        "comment": "You should improve.",
         "rating": "⭐⭐⭐",
         "picture": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61"
     },
     {
         "id": 2,
         "name": "Seth Doyle",
+        "comment": "Very good.",
         "rating": "⭐⭐⭐⭐",
         "picture": "https://images.unsplash.com/photo-1485206412256-701ccc5b93ca"
     },
     {
         "id": 3,
         "name": "Jonathan Cooper",
+        "comment": "I am satisfied.",
         "rating": "⭐⭐⭐⭐",
         "picture": "https://images.unsplash.com/photo-1610216705422-caa3fcb6d158"
     },
     {
         "id": 4,
         "name": "Julia Ann",
+        "comment": "Wow! Awesome, loved it.",
         "rating": "⭐⭐⭐⭐⭐",
         "picture": "https://images.unsplash.com/photo-1597223557154-721c1cecc4b0"
     },
     {
         "id": 5,
         "name": "Alex Suprun",
+        "comment": "Hope you will do better.",
         "rating": "⭐⭐⭐",
         "picture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
     },
     {
         "id": 6,
         "name": "Midas Hofstra",
+        "comment": "Much decent. Keep it up.",
         "rating": "⭐⭐⭐⭐⭐",
         "picture": "https://images.unsplash.com/photo-1529068755536-a5ade0dcb4e8"
     }

@@ -1,0 +1,38 @@
+.home {
+    padding-bottom: 30px;
+}
+
+.summary {
+    display: flex;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.summary img {
+    width: 300px;
+    border-radius: 20px;
+}
+
+.basic {
+    padding-right: 50px;
+}
+
+.buy-button {
+    border: none;
+    border-radius: 10px;
+    background-color: navy;
+    color: white;
+}
+
+.see-all-button {
+    width: 20%;
+    border: none;
+    border-radius: 10px;
+    background-color: navy;
+    color: white;
+}
+
+.span {
+    color: purple;
+}
