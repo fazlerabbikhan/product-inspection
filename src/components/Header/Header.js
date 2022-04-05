@@ -1,10 +1,11 @@
 import React from 'react';
 import CustomLink from '../CustomLink/CustomLink';
+import './Header.css'
 
 const Header = () => {
     return (
         <div>
-            <nav>
+            <nav className='navlinks'>
                 <CustomLink to='/'>Home</CustomLink>
                 <CustomLink to='/reviews'>Reviews</CustomLink>
                 <CustomLink to='/dashboard'>Dashboard</CustomLink>

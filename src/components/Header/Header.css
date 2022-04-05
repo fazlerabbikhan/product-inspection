@@ -1,0 +1,6 @@
+.navlinks {
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px 300px;
+}
